@@ -1,0 +1,4 @@
+﻿  osystemExperiment_1_1.cpp
+f:\vs2017save\qt\osystemexperiment_1_1\osystemexperiment_1_1\pcb.h(5): warning C4005: “NDEBUG”: 宏重定义
+  f:\vs2017save\qt\osystemexperiment_1_1\osystemexperiment_1_1\osystemexperiment_1_1.cpp: note: 参见“NDEBUG”的前一个定义
+  osystemExperiment_1_1.vcxproj -> F:\VS2017Save\QT\osystemExperiment_1_1\x64\Release\osystemExperiment_1_1.exe

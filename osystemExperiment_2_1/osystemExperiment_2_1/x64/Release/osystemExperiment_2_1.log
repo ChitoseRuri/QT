@@ -1,0 +1,13 @@
+﻿  moc_osystemExperiment_2_1.cpp
+  JCB.cpp
+f:\vs2017save\qt\osystemexperiment_2_1\osystemexperiment_2_1\jcb.h(5): warning C4005: “NDEBUG”: 宏重定义 (编译源文件 JCB.cpp)
+  f:\vs2017save\qt\osystemexperiment_2_1\osystemexperiment_2_1\jcb.cpp: note: 参见“NDEBUG”的前一个定义
+  main.cpp
+  osystemExperiment_2_1.cpp
+f:\vs2017save\qt\osystemexperiment_2_1\osystemexperiment_2_1\jcb.h(5): warning C4005: “NDEBUG”: 宏重定义 (编译源文件 .\GeneratedFiles\Release\moc_osystemExperiment_2_1.cpp)
+  f:\vs2017save\qt\osystemexperiment_2_1\osystemexperiment_2_1\generatedfiles\release\moc_osystemexperiment_2_1.cpp: note: 参见“NDEBUG”的前一个定义
+f:\vs2017save\qt\osystemexperiment_2_1\osystemexperiment_2_1\jcb.h(5): warning C4005: “NDEBUG”: 宏重定义 (编译源文件 osystemExperiment_2_1.cpp)
+  f:\vs2017save\qt\osystemexperiment_2_1\osystemexperiment_2_1\osystemexperiment_2_1.cpp: note: 参见“NDEBUG”的前一个定义
+f:\vs2017save\qt\osystemexperiment_2_1\osystemexperiment_2_1\jcb.h(5): warning C4005: “NDEBUG”: 宏重定义 (编译源文件 main.cpp)
+  f:\vs2017save\qt\osystemexperiment_2_1\osystemexperiment_2_1\main.cpp: note: 参见“NDEBUG”的前一个定义
+  osystemExperiment_2_1.vcxproj -> F:\VS2017Save\QT\osystemExperiment_2_1\x64\Release\osystemExperiment_2_1.exe

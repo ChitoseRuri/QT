@@ -1,0 +1,13 @@
+﻿F:\Tools\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(osystemExperiment_1_2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Moc'ing osystemExperiment_2_2.h...
+  Rcc'ing osystemExperiment_2_2.qrc...
+  Uic'ing osystemExperiment_2_2.ui...
+  RCC: Warning: No resources in 'F:\VS2017Save\QT\osystemExperiment_1_2\osystemExperiment_1_2\osystemExperiment_2_2.qrc'.
+  main.cpp
+  osystemExperiment_2_2.cpp
+  JCB.cpp
+f:\vs2017save\qt\osystemexperiment_1_2\osystemexperiment_1_2\main.cpp(1): fatal error C1083: 无法打开包括文件: “osystemExperiment_1_2.h”: No such file or directory
+f:\vs2017save\qt\osystemexperiment_1_2\osystemexperiment_1_2\osystemexperiment_2_2.cpp(1): fatal error C1083: 无法打开包括文件: “osystemExperiment_1_2.h”: No such file or directory
+  moc_osystemExperiment_2_2.cpp
+  qrc_osystemExperiment_2_2.cpp
+f:\vs2017save\qt\osystemexperiment_1_2\osystemexperiment_1_2\osystemexperiment_2_2.h(9): fatal error C1083: 无法打开包括文件: “ProcessControlBlock.h”: No such file or directory (编译源文件 .\GeneratedFiles\Debug\moc_osystemExperiment_2_2.cpp)

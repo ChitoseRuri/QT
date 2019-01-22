@@ -1,0 +1,16 @@
+﻿  moc_Blade.cpp
+  Blade.cpp
+  Card.cpp
+  Player.cpp
+  main.cpp
+f:\vs2017save\qt\blade\blade\card.h(7): warning C4005: “NDEBUG”: 宏重定义 (编译源文件 Card.cpp)
+  f:\vs2017save\qt\blade\blade\card.cpp: note: 参见“NDEBUG”的前一个定义
+f:\vs2017save\qt\blade\blade\card.h(7): warning C4005: “NDEBUG”: 宏重定义 (编译源文件 main.cpp)
+  f:\vs2017save\qt\blade\blade\main.cpp: note: 参见“NDEBUG”的前一个定义
+f:\vs2017save\qt\blade\blade\card.h(7): warning C4005: “NDEBUG”: 宏重定义 (编译源文件 Blade.cpp)
+  f:\vs2017save\qt\blade\blade\blade.cpp: note: 参见“NDEBUG”的前一个定义
+f:\vs2017save\qt\blade\blade\card.h(7): warning C4005: “NDEBUG”: 宏重定义 (编译源文件 Player.cpp)
+  f:\vs2017save\qt\blade\blade\player.cpp: note: 参见“NDEBUG”的前一个定义
+f:\vs2017save\qt\blade\blade\card.h(7): warning C4005: “NDEBUG”: 宏重定义 (编译源文件 .\GeneratedFiles\Release\moc_Blade.cpp)
+  f:\vs2017save\qt\blade\blade\generatedfiles\release\moc_blade.cpp: note: 参见“NDEBUG”的前一个定义
+  Blade.vcxproj -> F:\VS2017Save\QT\Blade\x64\Release\Blade.exe

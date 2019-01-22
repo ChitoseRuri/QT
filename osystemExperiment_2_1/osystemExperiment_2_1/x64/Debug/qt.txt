@@ -1,1 +1,0 @@
-Uic'ing osystemExperiment_2_1.ui...;F:\Tools\QT\5.11.2\msvc2017_64\bin\uic.exe;"F:\VS2017Save\QT\osystemExperiment_2_1\osystemExperiment_2_1\osystemExperiment_2_1.ui" -o ".\GeneratedFiles\ui_osystemExperiment_2_1.h"
